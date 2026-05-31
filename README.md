@@ -228,6 +228,14 @@ Recommendation Systems, Machine Learning, Graph-Based Learning, and Adversarial 
 
 ---
 
+## Author
+
+Shreeya Regmi
+
+Master of Information Technology
+
+Charles Darwin University
+
 ## License
 
 This project is developed for academic and research purposes.
